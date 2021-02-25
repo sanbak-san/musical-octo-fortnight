@@ -8,6 +8,7 @@
   },
   "scripts": {
     "dev": "nuxt",
+    "prebuild": "npm install",
     "build": "nuxt build -m",
     "build:analyze": "nuxt build -a -m",
     "start": "nuxt start",

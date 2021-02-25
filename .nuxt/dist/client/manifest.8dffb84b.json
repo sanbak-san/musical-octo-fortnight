@@ -1,0 +1,10 @@
+{
+  "name": "storefront-netlify",
+  "short_name": "storefront-netlify",
+  "description": "My breathtaking Nuxt.js project",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
