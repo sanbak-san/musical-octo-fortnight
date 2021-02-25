@@ -220,7 +220,7 @@ export default {
     SfRadio,
     SfImage,
     SfCheckbox,
-    UserBillingAddresses: () => import('~/components/Checkout/UserBillingAddresses'),
+    UserBillingAddresses: () => import('/components/Checkout/UserBillingAddresses.vue'),
     ValidationProvider,
     ValidationObserver
   },
